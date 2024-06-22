@@ -1,0 +1,539 @@
+{
+  "admin": [
+    {
+      "admin_name": "admin",
+      "admin_password": "1234",
+      "id": "5e19"
+    }
+  ],
+  "subject": [
+    {
+      "subject_name": "Maths",
+      "id": "1"
+    },
+    {
+      "subject_name": "English",
+      "id": "2"
+    },
+    {
+      "subject_name": "Arabic",
+      "id": "3"
+    },
+    {
+      "subject_name": "science",
+      "id": "4"
+    },
+    {
+      "id": "306f",
+      "subject_name": "frensh"
+    },
+    {
+      "id": "0a82",
+      "subject_name": "java"
+    }
+  ],
+  "Exam": [
+    {
+      "id": "1",
+      "exam_name": "Maths",
+      "exam_desc": "This is Math Exam",
+      "exam_date": "17-9-2021 17:49:39",
+      "exam_marks": "5",
+      "exam_totalQuestion": "5",
+      "exam_passMarks": "3",
+      "exam_level": "Easy"
+    },
+    {
+      "exam_name": "English",
+      "exam_desc": "english",
+      "exam_level": "easy",
+      "exam_passMarks": "5",
+      "exam_totalQuestion": "5",
+      "exam_marks": "5",
+      "exam_date": "12-4-2023 8:45:18",
+      "id": "2"
+    },
+    {
+      "exam_name": "Arabic",
+      "exam_desc": "This is arabic exam",
+      "exam_level": "esy",
+      "exam_passMarks": "30",
+      "exam_totalQuestion": "12",
+      "exam_marks": "50",
+      "exam_date": "7-6-2024 22:31:6",
+      "id": "3"
+    },
+    {
+      "exam_name": "science",
+      "exam_desc": "This is science exam",
+      "exam_level": "esy",
+      "exam_passMarks": "35",
+      "exam_totalQuestion": "14",
+      "exam_marks": "60",
+      "exam_date": "8-6-2024 0:49:29",
+      "id": "4"
+    },
+    {
+      "id": "0d3c",
+      "exam_name": "biological",
+      "exam_desc": "This is biological exam",
+      "exam_level": "easy",
+      "exam_passMarks": "3",
+      "exam_totalQuestion": "5",
+      "exam_marks": "5",
+      "exam_date": "20-6-2024 2:23:43"
+    },
+    {
+      "id": "82c4",
+      "exam_name": "french",
+      "exam_desc": "This is french exam",
+      "exam_level": "easy",
+      "exam_passMarks": "3",
+      "exam_totalQuestion": "5",
+      "exam_marks": "5",
+      "exam_date": "20-6-2024 2:26:1"
+    },
+    {
+      "id": "51fe",
+      "exam_name": "java",
+      "exam_desc": "programming language",
+      "exam_level": "easy",
+      "exam_passMarks": "5",
+      "exam_totalQuestion": "10",
+      "exam_marks": "10",
+      "exam_date": "22-6-2024 12:17:42"
+    }
+  ],
+  "Question": [
+    {
+      "question_name": "10-5 ?",
+      "option_one": "3",
+      "option_two": "1",
+      "option_three": "2",
+      "option_four": "5",
+      "question_answer": "5",
+      "exam_id": 1,
+      "subject_name": "Maths",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "question_name": "10+5 ?",
+      "option_one": "3",
+      "option_two": "1",
+      "option_three": "4",
+      "option_four": "15",
+      "question_answer": "15",
+      "exam_id": 1,
+      "subject_name": "Maths"
+    },
+    {
+      "question_name": "10*5",
+      "option_one": "10",
+      "option_two": "5",
+      "option_three": "50",
+      "option_four": "2",
+      "question_answer": "50",
+      "exam_id": "1",
+      "subject_name": "Maths",
+      "id": "3"
+    },
+    {
+      "question_name": "q1",
+      "option_one": "1",
+      "option_two": "2",
+      "option_three": "3",
+      "option_four": "4",
+      "question_answer": "1",
+      "exam_id": "2",
+      "subject_name": "english",
+      "id": "6"
+    },
+    {
+      "question_name": "q2",
+      "option_one": "1",
+      "option_two": "2",
+      "option_three": "3",
+      "option_four": "4",
+      "question_answer": "1",
+      "exam_id": "2",
+      "subject_name": "english",
+      "id": "7"
+    },
+    {
+      "question_name": "q1",
+      "option_one": "1",
+      "option_two": "2",
+      "option_three": "3",
+      "option_four": "4",
+      "question_answer": "2",
+      "exam_id": "3",
+      "subject_name": "Arabic",
+      "id": "8"
+    },
+    {
+      "question_name": "q6",
+      "option_one": "1",
+      "option_two": "2",
+      "option_three": "3",
+      "option_four": "4",
+      "question_answer": "4",
+      "exam_id": "4",
+      "subject_name": "science",
+      "id": "9"
+    },
+    {
+      "id": "d566",
+      "question_name": "3*2",
+      "option_one": "6",
+      "option_two": "5",
+      "option_three": "7",
+      "option_four": "8",
+      "question_answer": "6",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "a0a1",
+      "question_name": "4+3",
+      "option_one": "7",
+      "option_two": "1",
+      "option_three": "4",
+      "option_four": "9",
+      "question_answer": "7",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "744a",
+      "question_name": "q1",
+      "option_one": "3",
+      "option_two": "5",
+      "option_three": "4",
+      "option_four": "8",
+      "question_answer": "4",
+      "exam_id": "0d3c",
+      "subject_name": "biological"
+    },
+    {
+      "id": "1ce4",
+      "question_name": "q1",
+      "option_one": "3",
+      "option_two": "5",
+      "option_three": "3",
+      "option_four": "8",
+      "question_answer": "5",
+      "exam_id": "82c4",
+      "subject_name": "french"
+    },
+    {
+      "id": "df3f",
+      "question_name": "q5",
+      "option_one": "3",
+      "option_two": "2",
+      "option_three": "4",
+      "option_four": "8",
+      "question_answer": "6",
+      "exam_id": "82c4",
+      "subject_name": "french"
+    },
+    {
+      "question_name": "java is low language?",
+      "option_one": "yes",
+      "option_two": "No",
+      "option_three": "maybe",
+      "option_four": "i do not know",
+      "question_answer": "No",
+      "exam_id": "51fe",
+      "subject_name": "java",
+      "id": "8087"
+    },
+    {
+      "id": "46f4",
+      "question_name": "who invented java programming?",
+      "option_one": "Gudio van Rossum",
+      "option_two": "James Gosling",
+      "option_three": "Dennis Ritchie",
+      "option_four": "Bjarne ",
+      "question_answer": "James Gosling",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "8c39",
+      "question_name": "Which component is used to compile,debug and execute java programs?",
+      "option_one": "JRE",
+      "option_two": "JIT",
+      "option_three": "JDK",
+      "option_four": "JVM",
+      "question_answer": "JDK",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "88c8",
+      "question_name": "which one is not a java feature?",
+      "option_one": "object-oriented",
+      "option_two": "use of pointers",
+      "option_three": "portable",
+      "option_four": "Dynamic",
+      "question_answer": "use of pointers",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "61aa",
+      "question_name": "extension of java files?",
+      "option_one": ".js",
+      "option_two": ".txt",
+      "option_three": ".java",
+      "option_four": ".class",
+      "question_answer": ".java",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "23d7",
+      "question_name": "Extension of compiled java classes?",
+      "option_one": ".txt",
+      "option_two": ".class",
+      "option_three": ".js",
+      "option_four": ".java",
+      "question_answer": ".class",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "469a",
+      "question_name": "which are selection statements in java?",
+      "option_one": "break",
+      "option_two": "continue",
+      "option_three": "for()",
+      "option_four": "if()",
+      "question_answer": "if()",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "c425",
+      "question_name": "which keywords is used to define interfaces in java?",
+      "option_one": "intf",
+      "option_two": "Intf",
+      "option_three": "interface",
+      "option_four": "Interface",
+      "question_answer": "interface",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "36e5",
+      "question_name": "which is not a java profiler?",
+      "option_one": "JProfiler",
+      "option_two": "Eclipse Profile ",
+      "option_three": "JVM",
+      "option_four": "JConsole",
+      "question_answer": "JVM",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    },
+    {
+      "id": "6929",
+      "question_name": "which package contains stack overflo in java?",
+      "option_one": "java.io",
+      "option_two": "java.system",
+      "option_three": "java.lang",
+      "option_four": "java.util",
+      "question_answer": "java.lang",
+      "exam_id": "51fe",
+      "subject_name": "java"
+    }
+  ],
+  "Result": [
+    {
+      "id": "1",
+      "result_status": "Pass",
+      "result_score": "3",
+      "user_email": "rehab@gmail.com",
+      "exam_date": "12-23-12",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "id": "2",
+      "result_status": "Pass",
+      "result_score": "3",
+      "user_email": "shimaa@gmail.com",
+      "exam_date": "12-23-12",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "id": "3",
+      "result_status": "Pass",
+      "result_score": "3",
+      "user_email": "shimaa@gmail.com",
+      "exam_date": "12-23-12",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 3,
+      "user_email": "rehab@gmail.com",
+      "exam_date": "18-9-2021 20:49:39",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": "4"
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 4,
+      "user_email": "fatma@gmail.com",
+      "exam_date": "19-9-2021 15:11:27",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": "5"
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 4,
+      "user_email": "fatma@gmail.com",
+      "exam_date": "19-9-2021 15:20:37",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": "6"
+    },
+    {
+      "result_status": "Fail",
+      "result_score": 2,
+      "user_email": "sara@gmail.com",
+      "exam_date": "12-4-2023 8:47:52",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "2",
+      "total_Question": "5",
+      "id": "7"
+    },
+    {
+      "result_status": "Fail",
+      "result_score": 2,
+      "user_email": "sara@gmail.com",
+      "exam_date": "12-4-2023 8:53:10",
+      "exam_name": "English",
+      "total_marks": "5",
+      "exam_id": "2",
+      "total_Question": "5",
+      "id": "8"
+    },
+    {
+      "id": "4e3f",
+      "result_status": "Fail",
+      "result_score": 2,
+      "user_email": "rehab@gmail.com",
+      "exam_date": "20-6-2024 1:55:18",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "id": "4a47",
+      "result_status": "Pass",
+      "result_score": 4,
+      "user_email": "fatma@gmail.com",
+      "exam_date": "20-6-2024 2:8:4",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "id": "1eab",
+      "result_status": "Fail",
+      "result_score": 0,
+      "user_email": "fatma@gmail.com",
+      "exam_date": "20-6-2024 2:9:13",
+      "exam_name": "English",
+      "total_marks": "5",
+      "exam_id": "2",
+      "total_Question": "5"
+    },
+    {
+      "id": "bcf7",
+      "result_status": "Pass",
+      "result_score": 5,
+      "user_email": "fatma@gmail.com",
+      "exam_date": "21-6-2024 21:10:33",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "id": "567a",
+      "result_status": "Pass",
+      "result_score": 9,
+      "user_email": "rehab@gmail.com",
+      "exam_date": "22-6-2024 13:9:14",
+      "exam_name": "java",
+      "total_marks": "5",
+      "exam_id": "51fe",
+      "total_Question": "5"
+    },
+    {
+      "id": "704d",
+      "result_status": "Fail",
+      "result_score": 1,
+      "user_email": "rehab@gmail.com",
+      "exam_date": "22-6-2024 13:14:51",
+      "exam_name": "science",
+      "total_marks": "5",
+      "exam_id": "4",
+      "total_Question": "5"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "user_name": "rehab",
+      "user_email": "rehab@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "id": "2",
+      "user_name": "shimaa",
+      "user_email": "shimaa@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "user_name": "fatma",
+      "user_email": "fatma@gmail.com",
+      "user_password": "123",
+      "id": "3"
+    },
+    {
+      "user_name": "sara",
+      "user_email": "sara@gmail.com",
+      "user_password": "123",
+      "id": "4"
+    },
+    {
+      "id": "0ae2",
+      "user_name": "ads",
+      "user_email": "cs",
+      "user_password": "123"
+    }
+  ]
+}

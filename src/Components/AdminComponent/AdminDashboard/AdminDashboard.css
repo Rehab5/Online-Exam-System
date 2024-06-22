@@ -1,0 +1,11 @@
+.menu:hover{
+  background-color: aliceblue !important;
+  color:#006eff !important;
+}
+.side{
+  min-height: 100vh;
+  background-color: #809fff;
+}
+.head{
+  background-color: #809fff;
+}
